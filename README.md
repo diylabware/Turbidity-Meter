@@ -6,3 +6,4 @@ Readme can have a link to all the relevant files/documents and can/should be use
 I forked this document.
 Should also have mentions to code of conduct and contributing guidelines.
 this is all too stressful, damn
+Nonsense platform
